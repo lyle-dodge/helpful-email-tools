@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Email Tools - Build and Run Script
+# Helpful Email Tools - Build and Run Script
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR"
